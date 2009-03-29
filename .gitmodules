@@ -1,0 +1,30 @@
+[submodule ".google_appengine"]
+	path = .google_appengine
+	url = .google_appengine
+[submodule "appengine_django"]
+	path = appengine_django
+	url = appengine_django
+[submodule "vendor/django"]
+	path = vendor/django
+	url = vendor/django
+[submodule "vendor/oauth"]
+	path = vendor/oauth
+	url = vendor/oauth
+[submodule "vendor/simplejson"]
+	path = vendor/simplejson
+	url = vendor/simplejson
+[submodule "vendor/gdata"]
+	path = vendor/gdata
+	url = vendor/gdata
+[submodule "vendor/atom"]
+	path = vendor/atom
+	url = vendor/atom
+[submodule "vendor/elementtree"]
+	path = vendor/elementtree
+	url = vendor/elementtree
+[submodule "vendor/cleanliness"]
+	path = vendor/cleanliness
+	url = vendor/cleanliness
+[submodule "vendor/epydoc"]
+	path = vendor/epydoc
+	url = vendor/epydoc
